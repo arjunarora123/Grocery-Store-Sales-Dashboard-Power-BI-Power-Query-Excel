@@ -117,7 +117,11 @@ The dashboard analyzes sales performance across major product categories:
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📊 Grocery Store Sales Dashboard
+
+An interactive dashboard developed using Power BI, Power Query, and Excel data to analyze grocery store sales and business performance.
+
+![Grocery Store Dashboard](Grocery_Store_Dashboard.png)
 
 ---
 
